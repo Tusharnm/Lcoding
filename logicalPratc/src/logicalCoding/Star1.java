@@ -11,7 +11,11 @@ public class Star1 {
 		//****
 		//*****
 		
-		System.out.println("github checkout");
+		System.out.println("git push");
+				
+		
+		System.out.println("github checkout try");
+
 		
 		for(int i=1;i<=6;i++) {
 			
